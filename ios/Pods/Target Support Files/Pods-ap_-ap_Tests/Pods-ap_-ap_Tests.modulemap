@@ -1,0 +1,6 @@
+module Pods_ap__ap_Tests {
+  umbrella header "Pods-ap_-ap_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

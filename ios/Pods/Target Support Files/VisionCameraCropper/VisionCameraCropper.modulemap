@@ -1,0 +1,6 @@
+module VisionCameraCropper {
+  umbrella header "VisionCameraCropper-umbrella.h"
+
+  export *
+  module * { export * }
+}

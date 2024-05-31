@@ -67,7 +67,7 @@ export default function Captured(props) {
                     >
                     Back
                 </Button>
-                <Text>You still have {pokeballs} Pokeballs</Text>
+                <Text style={AppStyles.descriptionText}>You still have {pokeballs} Pokeballs</Text>
                 <View style={AppStyles.row}>
                     <Button
                         icon='pokeball'
@@ -96,7 +96,7 @@ export default function Captured(props) {
                                 <Text style={AppStyles.rowTitle}>
                                     {item.id} - {item.name}
                                 </Text>
-                                <Text>
+                                <Text style={AppStyles.descriptionText}> 
                                     {item.desc}
                                 </Text>
                             </View>

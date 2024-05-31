@@ -14,6 +14,159 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		7699B88040F8A987B510C191 /* libPods-ap_-ap_Tests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-ap_-ap_Tests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		D5528B2C2C09F25200995A9C /* pokemon_137.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528A932C09F24D00995A9C /* pokemon_137.mp3 */; };
+		D5528B2D2C09F25200995A9C /* pokemon_110.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528A942C09F24D00995A9C /* pokemon_110.mp3 */; };
+		D5528B2E2C09F25200995A9C /* pokemon_29.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528A952C09F24D00995A9C /* pokemon_29.mp3 */; };
+		D5528B2F2C09F25200995A9C /* pokemon_94.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528A962C09F24D00995A9C /* pokemon_94.mp3 */; };
+		D5528B302C09F25200995A9C /* pokemon_97.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528A972C09F24D00995A9C /* pokemon_97.mp3 */; };
+		D5528B312C09F25200995A9C /* pokemon_128.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528A982C09F24D00995A9C /* pokemon_128.mp3 */; };
+		D5528B322C09F25200995A9C /* pokemon_79.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528A992C09F24D00995A9C /* pokemon_79.mp3 */; };
+		D5528B332C09F25200995A9C /* pokemon_90.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528A9A2C09F24D00995A9C /* pokemon_90.mp3 */; };
+		D5528B342C09F25200995A9C /* pokemon_80.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528A9B2C09F24D00995A9C /* pokemon_80.mp3 */; };
+		D5528B352C09F25200995A9C /* pokemon_89.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528A9C2C09F24D00995A9C /* pokemon_89.mp3 */; };
+		D5528B362C09F25200995A9C /* pokemon_14.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528A9D2C09F24D00995A9C /* pokemon_14.mp3 */; };
+		D5528B372C09F25200995A9C /* pokemon_108.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528A9E2C09F24D00995A9C /* pokemon_108.mp3 */; };
+		D5528B382C09F25200995A9C /* pokemon_81.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528A9F2C09F24E00995A9C /* pokemon_81.mp3 */; };
+		D5528B392C09F25200995A9C /* pokemon_103.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AA02C09F24E00995A9C /* pokemon_103.mp3 */; };
+		D5528B3A2C09F25200995A9C /* pokemon_122.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AA12C09F24E00995A9C /* pokemon_122.mp3 */; };
+		D5528B3B2C09F25200995A9C /* pokemon_battle.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AA22C09F24E00995A9C /* pokemon_battle.mp3 */; };
+		D5528B3C2C09F25200995A9C /* pokemon_2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AA32C09F24E00995A9C /* pokemon_2.mp3 */; };
+		D5528B3D2C09F25200995A9C /* pokemon_35.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AA42C09F24E00995A9C /* pokemon_35.mp3 */; };
+		D5528B3E2C09F25200995A9C /* pokemon_9.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AA52C09F24E00995A9C /* pokemon_9.mp3 */; };
+		D5528B3F2C09F25200995A9C /* pokemon_26.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AA62C09F24E00995A9C /* pokemon_26.mp3 */; };
+		D5528B402C09F25200995A9C /* pokemon_132.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AA72C09F24E00995A9C /* pokemon_132.mp3 */; };
+		D5528B412C09F25200995A9C /* pokemon_107.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AA82C09F24E00995A9C /* pokemon_107.mp3 */; };
+		D5528B422C09F25200995A9C /* pokemon_15.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AA92C09F24E00995A9C /* pokemon_15.mp3 */; };
+		D5528B432C09F25200995A9C /* pokemon_68.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AAA2C09F24E00995A9C /* pokemon_68.mp3 */; };
+		D5528B442C09F25200995A9C /* pokemon_11.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AAB2C09F24E00995A9C /* pokemon_11.mp3 */; };
+		D5528B452C09F25200995A9C /* pokemon_136.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AAC2C09F24E00995A9C /* pokemon_136.mp3 */; };
+		D5528B462C09F25200995A9C /* pokemon_33.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AAD2C09F24E00995A9C /* pokemon_33.mp3 */; };
+		D5528B472C09F25200995A9C /* pokemon_112.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AAE2C09F24E00995A9C /* pokemon_112.mp3 */; };
+		D5528B482C09F25200995A9C /* pokemon_139.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AAF2C09F24E00995A9C /* pokemon_139.mp3 */; };
+		D5528B492C09F25200995A9C /* pokemon_21.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AB02C09F24E00995A9C /* pokemon_21.mp3 */; };
+		D5528B4A2C09F25200995A9C /* pokemon_82.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AB12C09F24E00995A9C /* pokemon_82.mp3 */; };
+		D5528B4B2C09F25200995A9C /* pokemon_61.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AB22C09F24E00995A9C /* pokemon_61.mp3 */; };
+		D5528B4C2C09F25200995A9C /* pokemon_27.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AB32C09F24E00995A9C /* pokemon_27.mp3 */; };
+		D5528B4D2C09F25200995A9C /* pokemon_92.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AB42C09F24E00995A9C /* pokemon_92.mp3 */; };
+		D5528B4E2C09F25200995A9C /* pokemon_48.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AB52C09F24E00995A9C /* pokemon_48.mp3 */; };
+		D5528B4F2C09F25200995A9C /* pokemon_117.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AB62C09F24E00995A9C /* pokemon_117.mp3 */; };
+		D5528B502C09F25200995A9C /* pokemon_123.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AB72C09F24E00995A9C /* pokemon_123.mp3 */; };
+		D5528B512C09F25200995A9C /* pokemon_19.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AB82C09F24E00995A9C /* pokemon_19.mp3 */; };
+		D5528B522C09F25200995A9C /* pokemon_144.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AB92C09F24E00995A9C /* pokemon_144.mp3 */; };
+		D5528B532C09F25200995A9C /* pokemon_capture.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528ABA2C09F24E00995A9C /* pokemon_capture.mp3 */; };
+		D5528B542C09F25200995A9C /* pokemon_3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528ABB2C09F24E00995A9C /* pokemon_3.mp3 */; };
+		D5528B552C09F25200995A9C /* pokemon_150.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528ABC2C09F24E00995A9C /* pokemon_150.mp3 */; };
+		D5528B562C09F25200995A9C /* pokemon_45.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528ABD2C09F24E00995A9C /* pokemon_45.mp3 */; };
+		D5528B572C09F25200995A9C /* pokemon_25.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528ABE2C09F24E00995A9C /* pokemon_25.mp3 */; };
+		D5528B582C09F25200995A9C /* pokemon_38.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528ABF2C09F24F00995A9C /* pokemon_38.mp3 */; };
+		D5528B592C09F25200995A9C /* pokemon_37.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AC02C09F24F00995A9C /* pokemon_37.mp3 */; };
+		D5528B5A2C09F25200995A9C /* pokemon_65.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AC12C09F24F00995A9C /* pokemon_65.mp3 */; };
+		D5528B5B2C09F25200995A9C /* pokemon_43.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AC22C09F24F00995A9C /* pokemon_43.mp3 */; };
+		D5528B5C2C09F25200995A9C /* pokemon_140.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AC32C09F24F00995A9C /* pokemon_140.mp3 */; };
+		D5528B5D2C09F25200995A9C /* pokemon_73.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AC42C09F24F00995A9C /* pokemon_73.mp3 */; };
+		D5528B5E2C09F25200995A9C /* pokemon_102.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AC52C09F24F00995A9C /* pokemon_102.mp3 */; };
+		D5528B5F2C09F25200995A9C /* pokemon_145.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AC62C09F24F00995A9C /* pokemon_145.mp3 */; };
+		D5528B602C09F25200995A9C /* pokemon_32.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AC72C09F24F00995A9C /* pokemon_32.mp3 */; };
+		D5528B612C09F25200995A9C /* pokemon_53.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AC82C09F24F00995A9C /* pokemon_53.mp3 */; };
+		D5528B622C09F25200995A9C /* pokemon_55.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AC92C09F24F00995A9C /* pokemon_55.mp3 */; };
+		D5528B632C09F25200995A9C /* pokemon_47.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528ACA2C09F24F00995A9C /* pokemon_47.mp3 */; };
+		D5528B642C09F25200995A9C /* pokemon_98.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528ACB2C09F24F00995A9C /* pokemon_98.mp3 */; };
+		D5528B652C09F25200995A9C /* pokemon_41.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528ACC2C09F24F00995A9C /* pokemon_41.mp3 */; };
+		D5528B662C09F25200995A9C /* pokemon_120.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528ACD2C09F24F00995A9C /* pokemon_120.mp3 */; };
+		D5528B672C09F25200995A9C /* pokemon_23.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528ACE2C09F24F00995A9C /* pokemon_23.mp3 */; };
+		D5528B682C09F25200995A9C /* pokemon_51.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528ACF2C09F24F00995A9C /* pokemon_51.mp3 */; };
+		D5528B692C09F25200995A9C /* pokemon_131.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AD02C09F24F00995A9C /* pokemon_131.mp3 */; };
+		D5528B6A2C09F25200995A9C /* pokemon_134.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AD12C09F24F00995A9C /* pokemon_134.mp3 */; };
+		D5528B6B2C09F25200995A9C /* pokemon_78.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AD22C09F24F00995A9C /* pokemon_78.mp3 */; };
+		D5528B6C2C09F25200995A9C /* pokemon_71.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AD32C09F24F00995A9C /* pokemon_71.mp3 */; };
+		D5528B6D2C09F25200995A9C /* pokemon_72.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AD42C09F24F00995A9C /* pokemon_72.mp3 */; };
+		D5528B6E2C09F25200995A9C /* pokemon_129.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AD52C09F24F00995A9C /* pokemon_129.mp3 */; };
+		D5528B6F2C09F25200995A9C /* pokemon_76.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AD62C09F24F00995A9C /* pokemon_76.mp3 */; };
+		D5528B702C09F25200995A9C /* pokemon_104.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AD72C09F24F00995A9C /* pokemon_104.mp3 */; };
+		D5528B712C09F25200995A9C /* pokemon_116.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AD82C09F24F00995A9C /* pokemon_116.mp3 */; };
+		D5528B722C09F25200995A9C /* pokemon_125.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AD92C09F24F00995A9C /* pokemon_125.mp3 */; };
+		D5528B732C09F25200995A9C /* pokemon_135.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528ADA2C09F24F00995A9C /* pokemon_135.mp3 */; };
+		D5528B742C09F25200995A9C /* pokemon_95.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528ADB2C09F24F00995A9C /* pokemon_95.mp3 */; };
+		D5528B752C09F25200995A9C /* pokemon_22.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528ADC2C09F24F00995A9C /* pokemon_22.mp3 */; };
+		D5528B762C09F25200995A9C /* pokemon_60.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528ADD2C09F24F00995A9C /* pokemon_60.mp3 */; };
+		D5528B772C09F25200995A9C /* pokemon_109.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528ADE2C09F25000995A9C /* pokemon_109.mp3 */; };
+		D5528B782C09F25200995A9C /* pokemon_138.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528ADF2C09F25000995A9C /* pokemon_138.mp3 */; };
+		D5528B792C09F25200995A9C /* pokemon_31.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AE02C09F25000995A9C /* pokemon_31.mp3 */; };
+		D5528B7A2C09F25200995A9C /* pokemon_105.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AE12C09F25000995A9C /* pokemon_105.mp3 */; };
+		D5528B7B2C09F25200995A9C /* pokemon_52.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AE22C09F25000995A9C /* pokemon_52.mp3 */; };
+		D5528B7C2C09F25200995A9C /* pokemon_7.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AE32C09F25000995A9C /* pokemon_7.mp3 */; };
+		D5528B7D2C09F25200995A9C /* pokemon_36.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AE42C09F25000995A9C /* pokemon_36.mp3 */; };
+		D5528B7E2C09F25200995A9C /* pokemon_63.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AE52C09F25000995A9C /* pokemon_63.mp3 */; };
+		D5528B7F2C09F25200995A9C /* pokemon_114.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AE62C09F25000995A9C /* pokemon_114.mp3 */; };
+		D5528B802C09F25200995A9C /* pokemon_88.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AE72C09F25000995A9C /* pokemon_88.mp3 */; };
+		D5528B812C09F25200995A9C /* pokemon_75.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AE82C09F25000995A9C /* pokemon_75.mp3 */; };
+		D5528B822C09F25200995A9C /* pokemon_46.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AE92C09F25000995A9C /* pokemon_46.mp3 */; };
+		D5528B832C09F25200995A9C /* pokemon_113.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AEA2C09F25000995A9C /* pokemon_113.mp3 */; };
+		D5528B842C09F25200995A9C /* pokemon_50.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AEB2C09F25000995A9C /* pokemon_50.mp3 */; };
+		D5528B852C09F25200995A9C /* pokemon_146.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AEC2C09F25000995A9C /* pokemon_146.mp3 */; };
+		D5528B862C09F25200995A9C /* pokemon_83.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AED2C09F25000995A9C /* pokemon_83.mp3 */; };
+		D5528B872C09F25200995A9C /* pokemon_93.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AEE2C09F25000995A9C /* pokemon_93.mp3 */; };
+		D5528B882C09F25200995A9C /* pokemon_74.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AEF2C09F25000995A9C /* pokemon_74.mp3 */; };
+		D5528B892C09F25200995A9C /* pokemon_54.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AF02C09F25000995A9C /* pokemon_54.mp3 */; };
+		D5528B8A2C09F25200995A9C /* pokemon_39.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AF12C09F25000995A9C /* pokemon_39.mp3 */; };
+		D5528B8B2C09F25200995A9C /* pokemon_147.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AF22C09F25000995A9C /* pokemon_147.mp3 */; };
+		D5528B8C2C09F25200995A9C /* pokemon_86.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AF32C09F25000995A9C /* pokemon_86.mp3 */; };
+		D5528B8D2C09F25200995A9C /* pokemon_49.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AF42C09F25000995A9C /* pokemon_49.mp3 */; };
+		D5528B8E2C09F25200995A9C /* pokemon_66.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AF52C09F25000995A9C /* pokemon_66.mp3 */; };
+		D5528B8F2C09F25200995A9C /* pokemon_30.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AF62C09F25000995A9C /* pokemon_30.mp3 */; };
+		D5528B902C09F25200995A9C /* pokemon_20.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AF72C09F25000995A9C /* pokemon_20.mp3 */; };
+		D5528B912C09F25200995A9C /* pokemon_100.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AF82C09F25000995A9C /* pokemon_100.mp3 */; };
+		D5528B922C09F25200995A9C /* pokemon_70.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AF92C09F25000995A9C /* pokemon_70.mp3 */; };
+		D5528B932C09F25200995A9C /* pokemon_87.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AFA2C09F25000995A9C /* pokemon_87.mp3 */; };
+		D5528B942C09F25200995A9C /* pokemon_6.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AFB2C09F25000995A9C /* pokemon_6.mp3 */; };
+		D5528B952C09F25200995A9C /* pokemon_77.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AFC2C09F25000995A9C /* pokemon_77.mp3 */; };
+		D5528B962C09F25200995A9C /* pokemon_119.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AFD2C09F25000995A9C /* pokemon_119.mp3 */; };
+		D5528B972C09F25200995A9C /* pokemon_17.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AFE2C09F25000995A9C /* pokemon_17.mp3 */; };
+		D5528B982C09F25200995A9C /* pokemon_101.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528AFF2C09F25000995A9C /* pokemon_101.mp3 */; };
+		D5528B992C09F25200995A9C /* pokemon_18.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528B002C09F25100995A9C /* pokemon_18.mp3 */; };
+		D5528B9A2C09F25200995A9C /* pokemon_118.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528B012C09F25100995A9C /* pokemon_118.mp3 */; };
+		D5528B9B2C09F25200995A9C /* pokemon_67.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528B022C09F25100995A9C /* pokemon_67.mp3 */; };
+		D5528B9C2C09F25200995A9C /* pokemon_127.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528B032C09F25100995A9C /* pokemon_127.mp3 */; };
+		D5528B9D2C09F25200995A9C /* pokemon_5.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528B042C09F25100995A9C /* pokemon_5.mp3 */; };
+		D5528B9E2C09F25200995A9C /* pokemon_99.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528B052C09F25100995A9C /* pokemon_99.mp3 */; };
+		D5528B9F2C09F25200995A9C /* pokemon_124.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528B062C09F25100995A9C /* pokemon_124.mp3 */; };
+		D5528BA02C09F25200995A9C /* pokemon_149.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528B072C09F25100995A9C /* pokemon_149.mp3 */; };
+		D5528BA12C09F25200995A9C /* pokemon_42.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528B082C09F25100995A9C /* pokemon_42.mp3 */; };
+		D5528BA22C09F25200995A9C /* pokemon_28.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528B092C09F25100995A9C /* pokemon_28.mp3 */; };
+		D5528BA32C09F25200995A9C /* pokemon_62.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528B0A2C09F25100995A9C /* pokemon_62.mp3 */; };
+		D5528BA42C09F25200995A9C /* pokemon_111.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528B0B2C09F25100995A9C /* pokemon_111.mp3 */; };
+		D5528BA52C09F25200995A9C /* pokemon_126.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528B0C2C09F25100995A9C /* pokemon_126.mp3 */; };
+		D5528BA62C09F25200995A9C /* pokemon_10.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528B0D2C09F25100995A9C /* pokemon_10.mp3 */; };
+		D5528BA72C09F25200995A9C /* pokemon_141.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528B0E2C09F25100995A9C /* pokemon_141.mp3 */; };
+		D5528BA82C09F25200995A9C /* pokemon_151.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528B0F2C09F25100995A9C /* pokemon_151.mp3 */; };
+		D5528BA92C09F25200995A9C /* pokemon_24.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528B102C09F25100995A9C /* pokemon_24.mp3 */; };
+		D5528BAA2C09F25200995A9C /* pokemon_133.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528B112C09F25100995A9C /* pokemon_133.mp3 */; };
+		D5528BAB2C09F25200995A9C /* pokemon_44.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528B122C09F25100995A9C /* pokemon_44.mp3 */; };
+		D5528BAC2C09F25200995A9C /* pokemon_13.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528B132C09F25100995A9C /* pokemon_13.mp3 */; };
+		D5528BAD2C09F25200995A9C /* pokemon_130.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528B142C09F25100995A9C /* pokemon_130.mp3 */; };
+		D5528BAE2C09F25200995A9C /* pokemon_85.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528B152C09F25100995A9C /* pokemon_85.mp3 */; };
+		D5528BAF2C09F25200995A9C /* pokemon_34.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528B162C09F25100995A9C /* pokemon_34.mp3 */; };
+		D5528BB02C09F25200995A9C /* pokemon_142.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528B172C09F25100995A9C /* pokemon_142.mp3 */; };
+		D5528BB12C09F25200995A9C /* pokemon_12.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528B182C09F25100995A9C /* pokemon_12.mp3 */; };
+		D5528BB22C09F25200995A9C /* pokemon_121.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528B192C09F25100995A9C /* pokemon_121.mp3 */; };
+		D5528BB32C09F25200995A9C /* pokemon_58.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528B1A2C09F25100995A9C /* pokemon_58.mp3 */; };
+		D5528BB42C09F25200995A9C /* pokemon_64.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528B1B2C09F25100995A9C /* pokemon_64.mp3 */; };
+		D5528BB52C09F25200995A9C /* pokemon_1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528B1C2C09F25100995A9C /* pokemon_1.mp3 */; };
+		D5528BB62C09F25200995A9C /* pokemon_69.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528B1D2C09F25100995A9C /* pokemon_69.mp3 */; };
+		D5528BB72C09F25200995A9C /* pokemon_84.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528B1E2C09F25100995A9C /* pokemon_84.mp3 */; };
+		D5528BB82C09F25200995A9C /* pokemon_8.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528B1F2C09F25100995A9C /* pokemon_8.mp3 */; };
+		D5528BB92C09F25200995A9C /* pokemon_40.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528B202C09F25100995A9C /* pokemon_40.mp3 */; };
+		D5528BBA2C09F25200995A9C /* pokemon_4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528B212C09F25100995A9C /* pokemon_4.mp3 */; };
+		D5528BBB2C09F25200995A9C /* pokemon_106.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528B222C09F25200995A9C /* pokemon_106.mp3 */; };
+		D5528BBC2C09F25200995A9C /* pokemon_56.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528B232C09F25200995A9C /* pokemon_56.mp3 */; };
+		D5528BBD2C09F25200995A9C /* pokemon_16.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528B242C09F25200995A9C /* pokemon_16.mp3 */; };
+		D5528BBE2C09F25200995A9C /* pokemon_143.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528B252C09F25200995A9C /* pokemon_143.mp3 */; };
+		D5528BBF2C09F25200995A9C /* pokemon_96.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528B262C09F25200995A9C /* pokemon_96.mp3 */; };
+		D5528BC02C09F25200995A9C /* pokemon_57.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528B272C09F25200995A9C /* pokemon_57.mp3 */; };
+		D5528BC12C09F25200995A9C /* pokemon_148.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528B282C09F25200995A9C /* pokemon_148.mp3 */; };
+		D5528BC22C09F25200995A9C /* pokemon_59.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528B292C09F25200995A9C /* pokemon_59.mp3 */; };
+		D5528BC32C09F25200995A9C /* pokemon_91.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528B2A2C09F25200995A9C /* pokemon_91.mp3 */; };
+		D5528BC42C09F25200995A9C /* pokemon_115.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D5528B2B2C09F25200995A9C /* pokemon_115.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,7 +189,7 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = ap_/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = ap_/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = ap_/main.m; sourceTree = "<group>"; };
-	    13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = ap_/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = ap_/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-ap_-ap_Tests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ap_-ap_Tests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B4392A12AC88292D35C810B /* Pods-ap_.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ap_.debug.xcconfig"; path = "Target Support Files/Pods-ap_/Pods-ap_.debug.xcconfig"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-ap_.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ap_.release.xcconfig"; path = "Target Support Files/Pods-ap_/Pods-ap_.release.xcconfig"; sourceTree = "<group>"; };
@@ -44,6 +197,159 @@
 		5DCACB8F33CDC322A6C60F78 /* libPods-ap_.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ap_.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = ap_/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-ap_-ap_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ap_-ap_Tests.release.xcconfig"; path = "Target Support Files/Pods-ap_-ap_Tests/Pods-ap_-ap_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		D5528A932C09F24D00995A9C /* pokemon_137.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_137.mp3; path = ../android/app/src/main/res/raw/pokemon_137.mp3; sourceTree = "<group>"; };
+		D5528A942C09F24D00995A9C /* pokemon_110.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_110.mp3; path = ../android/app/src/main/res/raw/pokemon_110.mp3; sourceTree = "<group>"; };
+		D5528A952C09F24D00995A9C /* pokemon_29.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_29.mp3; path = ../android/app/src/main/res/raw/pokemon_29.mp3; sourceTree = "<group>"; };
+		D5528A962C09F24D00995A9C /* pokemon_94.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_94.mp3; path = ../android/app/src/main/res/raw/pokemon_94.mp3; sourceTree = "<group>"; };
+		D5528A972C09F24D00995A9C /* pokemon_97.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_97.mp3; path = ../android/app/src/main/res/raw/pokemon_97.mp3; sourceTree = "<group>"; };
+		D5528A982C09F24D00995A9C /* pokemon_128.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_128.mp3; path = ../android/app/src/main/res/raw/pokemon_128.mp3; sourceTree = "<group>"; };
+		D5528A992C09F24D00995A9C /* pokemon_79.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_79.mp3; path = ../android/app/src/main/res/raw/pokemon_79.mp3; sourceTree = "<group>"; };
+		D5528A9A2C09F24D00995A9C /* pokemon_90.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_90.mp3; path = ../android/app/src/main/res/raw/pokemon_90.mp3; sourceTree = "<group>"; };
+		D5528A9B2C09F24D00995A9C /* pokemon_80.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_80.mp3; path = ../android/app/src/main/res/raw/pokemon_80.mp3; sourceTree = "<group>"; };
+		D5528A9C2C09F24D00995A9C /* pokemon_89.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_89.mp3; path = ../android/app/src/main/res/raw/pokemon_89.mp3; sourceTree = "<group>"; };
+		D5528A9D2C09F24D00995A9C /* pokemon_14.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_14.mp3; path = ../android/app/src/main/res/raw/pokemon_14.mp3; sourceTree = "<group>"; };
+		D5528A9E2C09F24D00995A9C /* pokemon_108.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_108.mp3; path = ../android/app/src/main/res/raw/pokemon_108.mp3; sourceTree = "<group>"; };
+		D5528A9F2C09F24E00995A9C /* pokemon_81.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_81.mp3; path = ../android/app/src/main/res/raw/pokemon_81.mp3; sourceTree = "<group>"; };
+		D5528AA02C09F24E00995A9C /* pokemon_103.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_103.mp3; path = ../android/app/src/main/res/raw/pokemon_103.mp3; sourceTree = "<group>"; };
+		D5528AA12C09F24E00995A9C /* pokemon_122.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_122.mp3; path = ../android/app/src/main/res/raw/pokemon_122.mp3; sourceTree = "<group>"; };
+		D5528AA22C09F24E00995A9C /* pokemon_battle.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_battle.mp3; path = ../android/app/src/main/res/raw/pokemon_battle.mp3; sourceTree = "<group>"; };
+		D5528AA32C09F24E00995A9C /* pokemon_2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_2.mp3; path = ../android/app/src/main/res/raw/pokemon_2.mp3; sourceTree = "<group>"; };
+		D5528AA42C09F24E00995A9C /* pokemon_35.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_35.mp3; path = ../android/app/src/main/res/raw/pokemon_35.mp3; sourceTree = "<group>"; };
+		D5528AA52C09F24E00995A9C /* pokemon_9.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_9.mp3; path = ../android/app/src/main/res/raw/pokemon_9.mp3; sourceTree = "<group>"; };
+		D5528AA62C09F24E00995A9C /* pokemon_26.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_26.mp3; path = ../android/app/src/main/res/raw/pokemon_26.mp3; sourceTree = "<group>"; };
+		D5528AA72C09F24E00995A9C /* pokemon_132.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_132.mp3; path = ../android/app/src/main/res/raw/pokemon_132.mp3; sourceTree = "<group>"; };
+		D5528AA82C09F24E00995A9C /* pokemon_107.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_107.mp3; path = ../android/app/src/main/res/raw/pokemon_107.mp3; sourceTree = "<group>"; };
+		D5528AA92C09F24E00995A9C /* pokemon_15.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_15.mp3; path = ../android/app/src/main/res/raw/pokemon_15.mp3; sourceTree = "<group>"; };
+		D5528AAA2C09F24E00995A9C /* pokemon_68.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_68.mp3; path = ../android/app/src/main/res/raw/pokemon_68.mp3; sourceTree = "<group>"; };
+		D5528AAB2C09F24E00995A9C /* pokemon_11.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_11.mp3; path = ../android/app/src/main/res/raw/pokemon_11.mp3; sourceTree = "<group>"; };
+		D5528AAC2C09F24E00995A9C /* pokemon_136.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_136.mp3; path = ../android/app/src/main/res/raw/pokemon_136.mp3; sourceTree = "<group>"; };
+		D5528AAD2C09F24E00995A9C /* pokemon_33.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_33.mp3; path = ../android/app/src/main/res/raw/pokemon_33.mp3; sourceTree = "<group>"; };
+		D5528AAE2C09F24E00995A9C /* pokemon_112.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_112.mp3; path = ../android/app/src/main/res/raw/pokemon_112.mp3; sourceTree = "<group>"; };
+		D5528AAF2C09F24E00995A9C /* pokemon_139.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_139.mp3; path = ../android/app/src/main/res/raw/pokemon_139.mp3; sourceTree = "<group>"; };
+		D5528AB02C09F24E00995A9C /* pokemon_21.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_21.mp3; path = ../android/app/src/main/res/raw/pokemon_21.mp3; sourceTree = "<group>"; };
+		D5528AB12C09F24E00995A9C /* pokemon_82.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_82.mp3; path = ../android/app/src/main/res/raw/pokemon_82.mp3; sourceTree = "<group>"; };
+		D5528AB22C09F24E00995A9C /* pokemon_61.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_61.mp3; path = ../android/app/src/main/res/raw/pokemon_61.mp3; sourceTree = "<group>"; };
+		D5528AB32C09F24E00995A9C /* pokemon_27.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_27.mp3; path = ../android/app/src/main/res/raw/pokemon_27.mp3; sourceTree = "<group>"; };
+		D5528AB42C09F24E00995A9C /* pokemon_92.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_92.mp3; path = ../android/app/src/main/res/raw/pokemon_92.mp3; sourceTree = "<group>"; };
+		D5528AB52C09F24E00995A9C /* pokemon_48.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_48.mp3; path = ../android/app/src/main/res/raw/pokemon_48.mp3; sourceTree = "<group>"; };
+		D5528AB62C09F24E00995A9C /* pokemon_117.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_117.mp3; path = ../android/app/src/main/res/raw/pokemon_117.mp3; sourceTree = "<group>"; };
+		D5528AB72C09F24E00995A9C /* pokemon_123.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_123.mp3; path = ../android/app/src/main/res/raw/pokemon_123.mp3; sourceTree = "<group>"; };
+		D5528AB82C09F24E00995A9C /* pokemon_19.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_19.mp3; path = ../android/app/src/main/res/raw/pokemon_19.mp3; sourceTree = "<group>"; };
+		D5528AB92C09F24E00995A9C /* pokemon_144.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_144.mp3; path = ../android/app/src/main/res/raw/pokemon_144.mp3; sourceTree = "<group>"; };
+		D5528ABA2C09F24E00995A9C /* pokemon_capture.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_capture.mp3; path = ../android/app/src/main/res/raw/pokemon_capture.mp3; sourceTree = "<group>"; };
+		D5528ABB2C09F24E00995A9C /* pokemon_3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_3.mp3; path = ../android/app/src/main/res/raw/pokemon_3.mp3; sourceTree = "<group>"; };
+		D5528ABC2C09F24E00995A9C /* pokemon_150.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_150.mp3; path = ../android/app/src/main/res/raw/pokemon_150.mp3; sourceTree = "<group>"; };
+		D5528ABD2C09F24E00995A9C /* pokemon_45.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_45.mp3; path = ../android/app/src/main/res/raw/pokemon_45.mp3; sourceTree = "<group>"; };
+		D5528ABE2C09F24E00995A9C /* pokemon_25.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_25.mp3; path = ../android/app/src/main/res/raw/pokemon_25.mp3; sourceTree = "<group>"; };
+		D5528ABF2C09F24F00995A9C /* pokemon_38.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_38.mp3; path = ../android/app/src/main/res/raw/pokemon_38.mp3; sourceTree = "<group>"; };
+		D5528AC02C09F24F00995A9C /* pokemon_37.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_37.mp3; path = ../android/app/src/main/res/raw/pokemon_37.mp3; sourceTree = "<group>"; };
+		D5528AC12C09F24F00995A9C /* pokemon_65.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_65.mp3; path = ../android/app/src/main/res/raw/pokemon_65.mp3; sourceTree = "<group>"; };
+		D5528AC22C09F24F00995A9C /* pokemon_43.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_43.mp3; path = ../android/app/src/main/res/raw/pokemon_43.mp3; sourceTree = "<group>"; };
+		D5528AC32C09F24F00995A9C /* pokemon_140.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_140.mp3; path = ../android/app/src/main/res/raw/pokemon_140.mp3; sourceTree = "<group>"; };
+		D5528AC42C09F24F00995A9C /* pokemon_73.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_73.mp3; path = ../android/app/src/main/res/raw/pokemon_73.mp3; sourceTree = "<group>"; };
+		D5528AC52C09F24F00995A9C /* pokemon_102.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_102.mp3; path = ../android/app/src/main/res/raw/pokemon_102.mp3; sourceTree = "<group>"; };
+		D5528AC62C09F24F00995A9C /* pokemon_145.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_145.mp3; path = ../android/app/src/main/res/raw/pokemon_145.mp3; sourceTree = "<group>"; };
+		D5528AC72C09F24F00995A9C /* pokemon_32.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_32.mp3; path = ../android/app/src/main/res/raw/pokemon_32.mp3; sourceTree = "<group>"; };
+		D5528AC82C09F24F00995A9C /* pokemon_53.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_53.mp3; path = ../android/app/src/main/res/raw/pokemon_53.mp3; sourceTree = "<group>"; };
+		D5528AC92C09F24F00995A9C /* pokemon_55.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_55.mp3; path = ../android/app/src/main/res/raw/pokemon_55.mp3; sourceTree = "<group>"; };
+		D5528ACA2C09F24F00995A9C /* pokemon_47.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_47.mp3; path = ../android/app/src/main/res/raw/pokemon_47.mp3; sourceTree = "<group>"; };
+		D5528ACB2C09F24F00995A9C /* pokemon_98.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_98.mp3; path = ../android/app/src/main/res/raw/pokemon_98.mp3; sourceTree = "<group>"; };
+		D5528ACC2C09F24F00995A9C /* pokemon_41.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_41.mp3; path = ../android/app/src/main/res/raw/pokemon_41.mp3; sourceTree = "<group>"; };
+		D5528ACD2C09F24F00995A9C /* pokemon_120.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_120.mp3; path = ../android/app/src/main/res/raw/pokemon_120.mp3; sourceTree = "<group>"; };
+		D5528ACE2C09F24F00995A9C /* pokemon_23.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_23.mp3; path = ../android/app/src/main/res/raw/pokemon_23.mp3; sourceTree = "<group>"; };
+		D5528ACF2C09F24F00995A9C /* pokemon_51.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_51.mp3; path = ../android/app/src/main/res/raw/pokemon_51.mp3; sourceTree = "<group>"; };
+		D5528AD02C09F24F00995A9C /* pokemon_131.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_131.mp3; path = ../android/app/src/main/res/raw/pokemon_131.mp3; sourceTree = "<group>"; };
+		D5528AD12C09F24F00995A9C /* pokemon_134.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_134.mp3; path = ../android/app/src/main/res/raw/pokemon_134.mp3; sourceTree = "<group>"; };
+		D5528AD22C09F24F00995A9C /* pokemon_78.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_78.mp3; path = ../android/app/src/main/res/raw/pokemon_78.mp3; sourceTree = "<group>"; };
+		D5528AD32C09F24F00995A9C /* pokemon_71.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_71.mp3; path = ../android/app/src/main/res/raw/pokemon_71.mp3; sourceTree = "<group>"; };
+		D5528AD42C09F24F00995A9C /* pokemon_72.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_72.mp3; path = ../android/app/src/main/res/raw/pokemon_72.mp3; sourceTree = "<group>"; };
+		D5528AD52C09F24F00995A9C /* pokemon_129.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_129.mp3; path = ../android/app/src/main/res/raw/pokemon_129.mp3; sourceTree = "<group>"; };
+		D5528AD62C09F24F00995A9C /* pokemon_76.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_76.mp3; path = ../android/app/src/main/res/raw/pokemon_76.mp3; sourceTree = "<group>"; };
+		D5528AD72C09F24F00995A9C /* pokemon_104.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_104.mp3; path = ../android/app/src/main/res/raw/pokemon_104.mp3; sourceTree = "<group>"; };
+		D5528AD82C09F24F00995A9C /* pokemon_116.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_116.mp3; path = ../android/app/src/main/res/raw/pokemon_116.mp3; sourceTree = "<group>"; };
+		D5528AD92C09F24F00995A9C /* pokemon_125.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_125.mp3; path = ../android/app/src/main/res/raw/pokemon_125.mp3; sourceTree = "<group>"; };
+		D5528ADA2C09F24F00995A9C /* pokemon_135.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_135.mp3; path = ../android/app/src/main/res/raw/pokemon_135.mp3; sourceTree = "<group>"; };
+		D5528ADB2C09F24F00995A9C /* pokemon_95.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_95.mp3; path = ../android/app/src/main/res/raw/pokemon_95.mp3; sourceTree = "<group>"; };
+		D5528ADC2C09F24F00995A9C /* pokemon_22.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_22.mp3; path = ../android/app/src/main/res/raw/pokemon_22.mp3; sourceTree = "<group>"; };
+		D5528ADD2C09F24F00995A9C /* pokemon_60.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_60.mp3; path = ../android/app/src/main/res/raw/pokemon_60.mp3; sourceTree = "<group>"; };
+		D5528ADE2C09F25000995A9C /* pokemon_109.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_109.mp3; path = ../android/app/src/main/res/raw/pokemon_109.mp3; sourceTree = "<group>"; };
+		D5528ADF2C09F25000995A9C /* pokemon_138.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_138.mp3; path = ../android/app/src/main/res/raw/pokemon_138.mp3; sourceTree = "<group>"; };
+		D5528AE02C09F25000995A9C /* pokemon_31.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_31.mp3; path = ../android/app/src/main/res/raw/pokemon_31.mp3; sourceTree = "<group>"; };
+		D5528AE12C09F25000995A9C /* pokemon_105.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_105.mp3; path = ../android/app/src/main/res/raw/pokemon_105.mp3; sourceTree = "<group>"; };
+		D5528AE22C09F25000995A9C /* pokemon_52.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_52.mp3; path = ../android/app/src/main/res/raw/pokemon_52.mp3; sourceTree = "<group>"; };
+		D5528AE32C09F25000995A9C /* pokemon_7.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_7.mp3; path = ../android/app/src/main/res/raw/pokemon_7.mp3; sourceTree = "<group>"; };
+		D5528AE42C09F25000995A9C /* pokemon_36.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_36.mp3; path = ../android/app/src/main/res/raw/pokemon_36.mp3; sourceTree = "<group>"; };
+		D5528AE52C09F25000995A9C /* pokemon_63.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_63.mp3; path = ../android/app/src/main/res/raw/pokemon_63.mp3; sourceTree = "<group>"; };
+		D5528AE62C09F25000995A9C /* pokemon_114.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_114.mp3; path = ../android/app/src/main/res/raw/pokemon_114.mp3; sourceTree = "<group>"; };
+		D5528AE72C09F25000995A9C /* pokemon_88.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_88.mp3; path = ../android/app/src/main/res/raw/pokemon_88.mp3; sourceTree = "<group>"; };
+		D5528AE82C09F25000995A9C /* pokemon_75.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_75.mp3; path = ../android/app/src/main/res/raw/pokemon_75.mp3; sourceTree = "<group>"; };
+		D5528AE92C09F25000995A9C /* pokemon_46.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_46.mp3; path = ../android/app/src/main/res/raw/pokemon_46.mp3; sourceTree = "<group>"; };
+		D5528AEA2C09F25000995A9C /* pokemon_113.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_113.mp3; path = ../android/app/src/main/res/raw/pokemon_113.mp3; sourceTree = "<group>"; };
+		D5528AEB2C09F25000995A9C /* pokemon_50.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_50.mp3; path = ../android/app/src/main/res/raw/pokemon_50.mp3; sourceTree = "<group>"; };
+		D5528AEC2C09F25000995A9C /* pokemon_146.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_146.mp3; path = ../android/app/src/main/res/raw/pokemon_146.mp3; sourceTree = "<group>"; };
+		D5528AED2C09F25000995A9C /* pokemon_83.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_83.mp3; path = ../android/app/src/main/res/raw/pokemon_83.mp3; sourceTree = "<group>"; };
+		D5528AEE2C09F25000995A9C /* pokemon_93.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_93.mp3; path = ../android/app/src/main/res/raw/pokemon_93.mp3; sourceTree = "<group>"; };
+		D5528AEF2C09F25000995A9C /* pokemon_74.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_74.mp3; path = ../android/app/src/main/res/raw/pokemon_74.mp3; sourceTree = "<group>"; };
+		D5528AF02C09F25000995A9C /* pokemon_54.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_54.mp3; path = ../android/app/src/main/res/raw/pokemon_54.mp3; sourceTree = "<group>"; };
+		D5528AF12C09F25000995A9C /* pokemon_39.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_39.mp3; path = ../android/app/src/main/res/raw/pokemon_39.mp3; sourceTree = "<group>"; };
+		D5528AF22C09F25000995A9C /* pokemon_147.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_147.mp3; path = ../android/app/src/main/res/raw/pokemon_147.mp3; sourceTree = "<group>"; };
+		D5528AF32C09F25000995A9C /* pokemon_86.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_86.mp3; path = ../android/app/src/main/res/raw/pokemon_86.mp3; sourceTree = "<group>"; };
+		D5528AF42C09F25000995A9C /* pokemon_49.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_49.mp3; path = ../android/app/src/main/res/raw/pokemon_49.mp3; sourceTree = "<group>"; };
+		D5528AF52C09F25000995A9C /* pokemon_66.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_66.mp3; path = ../android/app/src/main/res/raw/pokemon_66.mp3; sourceTree = "<group>"; };
+		D5528AF62C09F25000995A9C /* pokemon_30.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_30.mp3; path = ../android/app/src/main/res/raw/pokemon_30.mp3; sourceTree = "<group>"; };
+		D5528AF72C09F25000995A9C /* pokemon_20.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_20.mp3; path = ../android/app/src/main/res/raw/pokemon_20.mp3; sourceTree = "<group>"; };
+		D5528AF82C09F25000995A9C /* pokemon_100.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_100.mp3; path = ../android/app/src/main/res/raw/pokemon_100.mp3; sourceTree = "<group>"; };
+		D5528AF92C09F25000995A9C /* pokemon_70.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_70.mp3; path = ../android/app/src/main/res/raw/pokemon_70.mp3; sourceTree = "<group>"; };
+		D5528AFA2C09F25000995A9C /* pokemon_87.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_87.mp3; path = ../android/app/src/main/res/raw/pokemon_87.mp3; sourceTree = "<group>"; };
+		D5528AFB2C09F25000995A9C /* pokemon_6.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_6.mp3; path = ../android/app/src/main/res/raw/pokemon_6.mp3; sourceTree = "<group>"; };
+		D5528AFC2C09F25000995A9C /* pokemon_77.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_77.mp3; path = ../android/app/src/main/res/raw/pokemon_77.mp3; sourceTree = "<group>"; };
+		D5528AFD2C09F25000995A9C /* pokemon_119.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_119.mp3; path = ../android/app/src/main/res/raw/pokemon_119.mp3; sourceTree = "<group>"; };
+		D5528AFE2C09F25000995A9C /* pokemon_17.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_17.mp3; path = ../android/app/src/main/res/raw/pokemon_17.mp3; sourceTree = "<group>"; };
+		D5528AFF2C09F25000995A9C /* pokemon_101.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_101.mp3; path = ../android/app/src/main/res/raw/pokemon_101.mp3; sourceTree = "<group>"; };
+		D5528B002C09F25100995A9C /* pokemon_18.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_18.mp3; path = ../android/app/src/main/res/raw/pokemon_18.mp3; sourceTree = "<group>"; };
+		D5528B012C09F25100995A9C /* pokemon_118.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_118.mp3; path = ../android/app/src/main/res/raw/pokemon_118.mp3; sourceTree = "<group>"; };
+		D5528B022C09F25100995A9C /* pokemon_67.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_67.mp3; path = ../android/app/src/main/res/raw/pokemon_67.mp3; sourceTree = "<group>"; };
+		D5528B032C09F25100995A9C /* pokemon_127.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_127.mp3; path = ../android/app/src/main/res/raw/pokemon_127.mp3; sourceTree = "<group>"; };
+		D5528B042C09F25100995A9C /* pokemon_5.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_5.mp3; path = ../android/app/src/main/res/raw/pokemon_5.mp3; sourceTree = "<group>"; };
+		D5528B052C09F25100995A9C /* pokemon_99.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_99.mp3; path = ../android/app/src/main/res/raw/pokemon_99.mp3; sourceTree = "<group>"; };
+		D5528B062C09F25100995A9C /* pokemon_124.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_124.mp3; path = ../android/app/src/main/res/raw/pokemon_124.mp3; sourceTree = "<group>"; };
+		D5528B072C09F25100995A9C /* pokemon_149.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_149.mp3; path = ../android/app/src/main/res/raw/pokemon_149.mp3; sourceTree = "<group>"; };
+		D5528B082C09F25100995A9C /* pokemon_42.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_42.mp3; path = ../android/app/src/main/res/raw/pokemon_42.mp3; sourceTree = "<group>"; };
+		D5528B092C09F25100995A9C /* pokemon_28.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_28.mp3; path = ../android/app/src/main/res/raw/pokemon_28.mp3; sourceTree = "<group>"; };
+		D5528B0A2C09F25100995A9C /* pokemon_62.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_62.mp3; path = ../android/app/src/main/res/raw/pokemon_62.mp3; sourceTree = "<group>"; };
+		D5528B0B2C09F25100995A9C /* pokemon_111.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_111.mp3; path = ../android/app/src/main/res/raw/pokemon_111.mp3; sourceTree = "<group>"; };
+		D5528B0C2C09F25100995A9C /* pokemon_126.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_126.mp3; path = ../android/app/src/main/res/raw/pokemon_126.mp3; sourceTree = "<group>"; };
+		D5528B0D2C09F25100995A9C /* pokemon_10.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_10.mp3; path = ../android/app/src/main/res/raw/pokemon_10.mp3; sourceTree = "<group>"; };
+		D5528B0E2C09F25100995A9C /* pokemon_141.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_141.mp3; path = ../android/app/src/main/res/raw/pokemon_141.mp3; sourceTree = "<group>"; };
+		D5528B0F2C09F25100995A9C /* pokemon_151.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_151.mp3; path = ../android/app/src/main/res/raw/pokemon_151.mp3; sourceTree = "<group>"; };
+		D5528B102C09F25100995A9C /* pokemon_24.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_24.mp3; path = ../android/app/src/main/res/raw/pokemon_24.mp3; sourceTree = "<group>"; };
+		D5528B112C09F25100995A9C /* pokemon_133.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_133.mp3; path = ../android/app/src/main/res/raw/pokemon_133.mp3; sourceTree = "<group>"; };
+		D5528B122C09F25100995A9C /* pokemon_44.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_44.mp3; path = ../android/app/src/main/res/raw/pokemon_44.mp3; sourceTree = "<group>"; };
+		D5528B132C09F25100995A9C /* pokemon_13.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_13.mp3; path = ../android/app/src/main/res/raw/pokemon_13.mp3; sourceTree = "<group>"; };
+		D5528B142C09F25100995A9C /* pokemon_130.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_130.mp3; path = ../android/app/src/main/res/raw/pokemon_130.mp3; sourceTree = "<group>"; };
+		D5528B152C09F25100995A9C /* pokemon_85.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_85.mp3; path = ../android/app/src/main/res/raw/pokemon_85.mp3; sourceTree = "<group>"; };
+		D5528B162C09F25100995A9C /* pokemon_34.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_34.mp3; path = ../android/app/src/main/res/raw/pokemon_34.mp3; sourceTree = "<group>"; };
+		D5528B172C09F25100995A9C /* pokemon_142.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_142.mp3; path = ../android/app/src/main/res/raw/pokemon_142.mp3; sourceTree = "<group>"; };
+		D5528B182C09F25100995A9C /* pokemon_12.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_12.mp3; path = ../android/app/src/main/res/raw/pokemon_12.mp3; sourceTree = "<group>"; };
+		D5528B192C09F25100995A9C /* pokemon_121.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_121.mp3; path = ../android/app/src/main/res/raw/pokemon_121.mp3; sourceTree = "<group>"; };
+		D5528B1A2C09F25100995A9C /* pokemon_58.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_58.mp3; path = ../android/app/src/main/res/raw/pokemon_58.mp3; sourceTree = "<group>"; };
+		D5528B1B2C09F25100995A9C /* pokemon_64.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_64.mp3; path = ../android/app/src/main/res/raw/pokemon_64.mp3; sourceTree = "<group>"; };
+		D5528B1C2C09F25100995A9C /* pokemon_1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_1.mp3; path = ../android/app/src/main/res/raw/pokemon_1.mp3; sourceTree = "<group>"; };
+		D5528B1D2C09F25100995A9C /* pokemon_69.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_69.mp3; path = ../android/app/src/main/res/raw/pokemon_69.mp3; sourceTree = "<group>"; };
+		D5528B1E2C09F25100995A9C /* pokemon_84.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_84.mp3; path = ../android/app/src/main/res/raw/pokemon_84.mp3; sourceTree = "<group>"; };
+		D5528B1F2C09F25100995A9C /* pokemon_8.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_8.mp3; path = ../android/app/src/main/res/raw/pokemon_8.mp3; sourceTree = "<group>"; };
+		D5528B202C09F25100995A9C /* pokemon_40.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_40.mp3; path = ../android/app/src/main/res/raw/pokemon_40.mp3; sourceTree = "<group>"; };
+		D5528B212C09F25100995A9C /* pokemon_4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_4.mp3; path = ../android/app/src/main/res/raw/pokemon_4.mp3; sourceTree = "<group>"; };
+		D5528B222C09F25200995A9C /* pokemon_106.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_106.mp3; path = ../android/app/src/main/res/raw/pokemon_106.mp3; sourceTree = "<group>"; };
+		D5528B232C09F25200995A9C /* pokemon_56.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_56.mp3; path = ../android/app/src/main/res/raw/pokemon_56.mp3; sourceTree = "<group>"; };
+		D5528B242C09F25200995A9C /* pokemon_16.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_16.mp3; path = ../android/app/src/main/res/raw/pokemon_16.mp3; sourceTree = "<group>"; };
+		D5528B252C09F25200995A9C /* pokemon_143.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_143.mp3; path = ../android/app/src/main/res/raw/pokemon_143.mp3; sourceTree = "<group>"; };
+		D5528B262C09F25200995A9C /* pokemon_96.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_96.mp3; path = ../android/app/src/main/res/raw/pokemon_96.mp3; sourceTree = "<group>"; };
+		D5528B272C09F25200995A9C /* pokemon_57.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_57.mp3; path = ../android/app/src/main/res/raw/pokemon_57.mp3; sourceTree = "<group>"; };
+		D5528B282C09F25200995A9C /* pokemon_148.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_148.mp3; path = ../android/app/src/main/res/raw/pokemon_148.mp3; sourceTree = "<group>"; };
+		D5528B292C09F25200995A9C /* pokemon_59.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_59.mp3; path = ../android/app/src/main/res/raw/pokemon_59.mp3; sourceTree = "<group>"; };
+		D5528B2A2C09F25200995A9C /* pokemon_91.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_91.mp3; path = ../android/app/src/main/res/raw/pokemon_91.mp3; sourceTree = "<group>"; };
+		D5528B2B2C09F25200995A9C /* pokemon_115.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = pokemon_115.mp3; path = ../android/app/src/main/res/raw/pokemon_115.mp3; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -118,6 +424,159 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
+				D5528B1C2C09F25100995A9C /* pokemon_1.mp3 */,
+				D5528AA32C09F24E00995A9C /* pokemon_2.mp3 */,
+				D5528ABB2C09F24E00995A9C /* pokemon_3.mp3 */,
+				D5528B212C09F25100995A9C /* pokemon_4.mp3 */,
+				D5528B042C09F25100995A9C /* pokemon_5.mp3 */,
+				D5528AFB2C09F25000995A9C /* pokemon_6.mp3 */,
+				D5528AE32C09F25000995A9C /* pokemon_7.mp3 */,
+				D5528B1F2C09F25100995A9C /* pokemon_8.mp3 */,
+				D5528AA52C09F24E00995A9C /* pokemon_9.mp3 */,
+				D5528B0D2C09F25100995A9C /* pokemon_10.mp3 */,
+				D5528AAB2C09F24E00995A9C /* pokemon_11.mp3 */,
+				D5528B182C09F25100995A9C /* pokemon_12.mp3 */,
+				D5528B132C09F25100995A9C /* pokemon_13.mp3 */,
+				D5528A9D2C09F24D00995A9C /* pokemon_14.mp3 */,
+				D5528AA92C09F24E00995A9C /* pokemon_15.mp3 */,
+				D5528B242C09F25200995A9C /* pokemon_16.mp3 */,
+				D5528AFE2C09F25000995A9C /* pokemon_17.mp3 */,
+				D5528B002C09F25100995A9C /* pokemon_18.mp3 */,
+				D5528AB82C09F24E00995A9C /* pokemon_19.mp3 */,
+				D5528AF72C09F25000995A9C /* pokemon_20.mp3 */,
+				D5528AB02C09F24E00995A9C /* pokemon_21.mp3 */,
+				D5528ADC2C09F24F00995A9C /* pokemon_22.mp3 */,
+				D5528ACE2C09F24F00995A9C /* pokemon_23.mp3 */,
+				D5528B102C09F25100995A9C /* pokemon_24.mp3 */,
+				D5528ABE2C09F24E00995A9C /* pokemon_25.mp3 */,
+				D5528AA62C09F24E00995A9C /* pokemon_26.mp3 */,
+				D5528AB32C09F24E00995A9C /* pokemon_27.mp3 */,
+				D5528B092C09F25100995A9C /* pokemon_28.mp3 */,
+				D5528A952C09F24D00995A9C /* pokemon_29.mp3 */,
+				D5528AF62C09F25000995A9C /* pokemon_30.mp3 */,
+				D5528AE02C09F25000995A9C /* pokemon_31.mp3 */,
+				D5528AC72C09F24F00995A9C /* pokemon_32.mp3 */,
+				D5528AAD2C09F24E00995A9C /* pokemon_33.mp3 */,
+				D5528B162C09F25100995A9C /* pokemon_34.mp3 */,
+				D5528AA42C09F24E00995A9C /* pokemon_35.mp3 */,
+				D5528AE42C09F25000995A9C /* pokemon_36.mp3 */,
+				D5528AC02C09F24F00995A9C /* pokemon_37.mp3 */,
+				D5528ABF2C09F24F00995A9C /* pokemon_38.mp3 */,
+				D5528AF12C09F25000995A9C /* pokemon_39.mp3 */,
+				D5528B202C09F25100995A9C /* pokemon_40.mp3 */,
+				D5528ACC2C09F24F00995A9C /* pokemon_41.mp3 */,
+				D5528B082C09F25100995A9C /* pokemon_42.mp3 */,
+				D5528AC22C09F24F00995A9C /* pokemon_43.mp3 */,
+				D5528B122C09F25100995A9C /* pokemon_44.mp3 */,
+				D5528ABD2C09F24E00995A9C /* pokemon_45.mp3 */,
+				D5528AE92C09F25000995A9C /* pokemon_46.mp3 */,
+				D5528ACA2C09F24F00995A9C /* pokemon_47.mp3 */,
+				D5528AB52C09F24E00995A9C /* pokemon_48.mp3 */,
+				D5528AF42C09F25000995A9C /* pokemon_49.mp3 */,
+				D5528AEB2C09F25000995A9C /* pokemon_50.mp3 */,
+				D5528ACF2C09F24F00995A9C /* pokemon_51.mp3 */,
+				D5528AE22C09F25000995A9C /* pokemon_52.mp3 */,
+				D5528AC82C09F24F00995A9C /* pokemon_53.mp3 */,
+				D5528AF02C09F25000995A9C /* pokemon_54.mp3 */,
+				D5528AC92C09F24F00995A9C /* pokemon_55.mp3 */,
+				D5528B232C09F25200995A9C /* pokemon_56.mp3 */,
+				D5528B272C09F25200995A9C /* pokemon_57.mp3 */,
+				D5528B1A2C09F25100995A9C /* pokemon_58.mp3 */,
+				D5528B292C09F25200995A9C /* pokemon_59.mp3 */,
+				D5528ADD2C09F24F00995A9C /* pokemon_60.mp3 */,
+				D5528AB22C09F24E00995A9C /* pokemon_61.mp3 */,
+				D5528B0A2C09F25100995A9C /* pokemon_62.mp3 */,
+				D5528AE52C09F25000995A9C /* pokemon_63.mp3 */,
+				D5528B1B2C09F25100995A9C /* pokemon_64.mp3 */,
+				D5528AC12C09F24F00995A9C /* pokemon_65.mp3 */,
+				D5528AF52C09F25000995A9C /* pokemon_66.mp3 */,
+				D5528B022C09F25100995A9C /* pokemon_67.mp3 */,
+				D5528AAA2C09F24E00995A9C /* pokemon_68.mp3 */,
+				D5528B1D2C09F25100995A9C /* pokemon_69.mp3 */,
+				D5528AF92C09F25000995A9C /* pokemon_70.mp3 */,
+				D5528AD32C09F24F00995A9C /* pokemon_71.mp3 */,
+				D5528AD42C09F24F00995A9C /* pokemon_72.mp3 */,
+				D5528AC42C09F24F00995A9C /* pokemon_73.mp3 */,
+				D5528AEF2C09F25000995A9C /* pokemon_74.mp3 */,
+				D5528AE82C09F25000995A9C /* pokemon_75.mp3 */,
+				D5528AD62C09F24F00995A9C /* pokemon_76.mp3 */,
+				D5528AFC2C09F25000995A9C /* pokemon_77.mp3 */,
+				D5528AD22C09F24F00995A9C /* pokemon_78.mp3 */,
+				D5528A992C09F24D00995A9C /* pokemon_79.mp3 */,
+				D5528A9B2C09F24D00995A9C /* pokemon_80.mp3 */,
+				D5528A9F2C09F24E00995A9C /* pokemon_81.mp3 */,
+				D5528AB12C09F24E00995A9C /* pokemon_82.mp3 */,
+				D5528AED2C09F25000995A9C /* pokemon_83.mp3 */,
+				D5528B1E2C09F25100995A9C /* pokemon_84.mp3 */,
+				D5528B152C09F25100995A9C /* pokemon_85.mp3 */,
+				D5528AF32C09F25000995A9C /* pokemon_86.mp3 */,
+				D5528AFA2C09F25000995A9C /* pokemon_87.mp3 */,
+				D5528AE72C09F25000995A9C /* pokemon_88.mp3 */,
+				D5528A9C2C09F24D00995A9C /* pokemon_89.mp3 */,
+				D5528A9A2C09F24D00995A9C /* pokemon_90.mp3 */,
+				D5528B2A2C09F25200995A9C /* pokemon_91.mp3 */,
+				D5528AB42C09F24E00995A9C /* pokemon_92.mp3 */,
+				D5528AEE2C09F25000995A9C /* pokemon_93.mp3 */,
+				D5528A962C09F24D00995A9C /* pokemon_94.mp3 */,
+				D5528ADB2C09F24F00995A9C /* pokemon_95.mp3 */,
+				D5528B262C09F25200995A9C /* pokemon_96.mp3 */,
+				D5528A972C09F24D00995A9C /* pokemon_97.mp3 */,
+				D5528ACB2C09F24F00995A9C /* pokemon_98.mp3 */,
+				D5528B052C09F25100995A9C /* pokemon_99.mp3 */,
+				D5528AF82C09F25000995A9C /* pokemon_100.mp3 */,
+				D5528AFF2C09F25000995A9C /* pokemon_101.mp3 */,
+				D5528AC52C09F24F00995A9C /* pokemon_102.mp3 */,
+				D5528AA02C09F24E00995A9C /* pokemon_103.mp3 */,
+				D5528AD72C09F24F00995A9C /* pokemon_104.mp3 */,
+				D5528AE12C09F25000995A9C /* pokemon_105.mp3 */,
+				D5528B222C09F25200995A9C /* pokemon_106.mp3 */,
+				D5528AA82C09F24E00995A9C /* pokemon_107.mp3 */,
+				D5528A9E2C09F24D00995A9C /* pokemon_108.mp3 */,
+				D5528ADE2C09F25000995A9C /* pokemon_109.mp3 */,
+				D5528A942C09F24D00995A9C /* pokemon_110.mp3 */,
+				D5528B0B2C09F25100995A9C /* pokemon_111.mp3 */,
+				D5528AAE2C09F24E00995A9C /* pokemon_112.mp3 */,
+				D5528AEA2C09F25000995A9C /* pokemon_113.mp3 */,
+				D5528AE62C09F25000995A9C /* pokemon_114.mp3 */,
+				D5528B2B2C09F25200995A9C /* pokemon_115.mp3 */,
+				D5528AD82C09F24F00995A9C /* pokemon_116.mp3 */,
+				D5528AB62C09F24E00995A9C /* pokemon_117.mp3 */,
+				D5528B012C09F25100995A9C /* pokemon_118.mp3 */,
+				D5528AFD2C09F25000995A9C /* pokemon_119.mp3 */,
+				D5528ACD2C09F24F00995A9C /* pokemon_120.mp3 */,
+				D5528B192C09F25100995A9C /* pokemon_121.mp3 */,
+				D5528AA12C09F24E00995A9C /* pokemon_122.mp3 */,
+				D5528AB72C09F24E00995A9C /* pokemon_123.mp3 */,
+				D5528B062C09F25100995A9C /* pokemon_124.mp3 */,
+				D5528AD92C09F24F00995A9C /* pokemon_125.mp3 */,
+				D5528B0C2C09F25100995A9C /* pokemon_126.mp3 */,
+				D5528B032C09F25100995A9C /* pokemon_127.mp3 */,
+				D5528A982C09F24D00995A9C /* pokemon_128.mp3 */,
+				D5528AD52C09F24F00995A9C /* pokemon_129.mp3 */,
+				D5528B142C09F25100995A9C /* pokemon_130.mp3 */,
+				D5528AD02C09F24F00995A9C /* pokemon_131.mp3 */,
+				D5528AA72C09F24E00995A9C /* pokemon_132.mp3 */,
+				D5528B112C09F25100995A9C /* pokemon_133.mp3 */,
+				D5528AD12C09F24F00995A9C /* pokemon_134.mp3 */,
+				D5528ADA2C09F24F00995A9C /* pokemon_135.mp3 */,
+				D5528AAC2C09F24E00995A9C /* pokemon_136.mp3 */,
+				D5528A932C09F24D00995A9C /* pokemon_137.mp3 */,
+				D5528ADF2C09F25000995A9C /* pokemon_138.mp3 */,
+				D5528AAF2C09F24E00995A9C /* pokemon_139.mp3 */,
+				D5528AC32C09F24F00995A9C /* pokemon_140.mp3 */,
+				D5528B0E2C09F25100995A9C /* pokemon_141.mp3 */,
+				D5528B172C09F25100995A9C /* pokemon_142.mp3 */,
+				D5528B252C09F25200995A9C /* pokemon_143.mp3 */,
+				D5528AB92C09F24E00995A9C /* pokemon_144.mp3 */,
+				D5528AC62C09F24F00995A9C /* pokemon_145.mp3 */,
+				D5528AEC2C09F25000995A9C /* pokemon_146.mp3 */,
+				D5528AF22C09F25000995A9C /* pokemon_147.mp3 */,
+				D5528B282C09F25200995A9C /* pokemon_148.mp3 */,
+				D5528B072C09F25100995A9C /* pokemon_149.mp3 */,
+				D5528ABC2C09F24E00995A9C /* pokemon_150.mp3 */,
+				D5528B0F2C09F25100995A9C /* pokemon_151.mp3 */,
+				D5528AA22C09F24E00995A9C /* pokemon_battle.mp3 */,
+				D5528ABA2C09F24E00995A9C /* pokemon_capture.mp3 */,
 				13B07FAE1A68108700A75B9A /* ap_ */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* ap_Tests */,
@@ -243,8 +702,161 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D5528B852C09F25200995A9C /* pokemon_146.mp3 in Resources */,
+				D5528B932C09F25200995A9C /* pokemon_87.mp3 in Resources */,
+				D5528B812C09F25200995A9C /* pokemon_75.mp3 in Resources */,
+				D5528BBC2C09F25200995A9C /* pokemon_56.mp3 in Resources */,
+				D5528B362C09F25200995A9C /* pokemon_14.mp3 in Resources */,
+				D5528B7D2C09F25200995A9C /* pokemon_36.mp3 in Resources */,
+				D5528BC32C09F25200995A9C /* pokemon_91.mp3 in Resources */,
+				D5528B4B2C09F25200995A9C /* pokemon_61.mp3 in Resources */,
+				D5528B742C09F25200995A9C /* pokemon_95.mp3 in Resources */,
+				D5528BB32C09F25200995A9C /* pokemon_58.mp3 in Resources */,
+				D5528BB92C09F25200995A9C /* pokemon_40.mp3 in Resources */,
+				D5528B682C09F25200995A9C /* pokemon_51.mp3 in Resources */,
+				D5528B9D2C09F25200995A9C /* pokemon_5.mp3 in Resources */,
+				D5528B642C09F25200995A9C /* pokemon_98.mp3 in Resources */,
+				D5528BA92C09F25200995A9C /* pokemon_24.mp3 in Resources */,
+				D5528B482C09F25200995A9C /* pokemon_139.mp3 in Resources */,
+				D5528B8E2C09F25200995A9C /* pokemon_66.mp3 in Resources */,
+				D5528B7E2C09F25200995A9C /* pokemon_63.mp3 in Resources */,
+				D5528BA22C09F25200995A9C /* pokemon_28.mp3 in Resources */,
+				D5528B5E2C09F25200995A9C /* pokemon_102.mp3 in Resources */,
+				D5528B542C09F25200995A9C /* pokemon_3.mp3 in Resources */,
+				D5528B6C2C09F25200995A9C /* pokemon_71.mp3 in Resources */,
+				D5528BA62C09F25200995A9C /* pokemon_10.mp3 in Resources */,
+				D5528B312C09F25200995A9C /* pokemon_128.mp3 in Resources */,
+				D5528BB22C09F25200995A9C /* pokemon_121.mp3 in Resources */,
+				D5528BAA2C09F25200995A9C /* pokemon_133.mp3 in Resources */,
+				D5528B382C09F25200995A9C /* pokemon_81.mp3 in Resources */,
+				D5528B942C09F25200995A9C /* pokemon_6.mp3 in Resources */,
+				D5528B732C09F25200995A9C /* pokemon_135.mp3 in Resources */,
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
+				D5528B8D2C09F25200995A9C /* pokemon_49.mp3 in Resources */,
+				D5528B5B2C09F25200995A9C /* pokemon_43.mp3 in Resources */,
+				D5528B972C09F25200995A9C /* pokemon_17.mp3 in Resources */,
+				D5528B762C09F25200995A9C /* pokemon_60.mp3 in Resources */,
+				D5528B7B2C09F25200995A9C /* pokemon_52.mp3 in Resources */,
+				D5528B432C09F25200995A9C /* pokemon_68.mp3 in Resources */,
+				D5528B842C09F25200995A9C /* pokemon_50.mp3 in Resources */,
+				D5528BC22C09F25200995A9C /* pokemon_59.mp3 in Resources */,
+				D5528B622C09F25200995A9C /* pokemon_55.mp3 in Resources */,
+				D5528BBF2C09F25200995A9C /* pokemon_96.mp3 in Resources */,
+				D5528B472C09F25200995A9C /* pokemon_112.mp3 in Resources */,
+				D5528B8C2C09F25200995A9C /* pokemon_86.mp3 in Resources */,
+				D5528B502C09F25200995A9C /* pokemon_123.mp3 in Resources */,
+				D5528B4A2C09F25200995A9C /* pokemon_82.mp3 in Resources */,
+				D5528BA72C09F25200995A9C /* pokemon_141.mp3 in Resources */,
+				D5528BB42C09F25200995A9C /* pokemon_64.mp3 in Resources */,
+				D5528B492C09F25200995A9C /* pokemon_21.mp3 in Resources */,
+				D5528B532C09F25200995A9C /* pokemon_capture.mp3 in Resources */,
+				D5528B8F2C09F25200995A9C /* pokemon_30.mp3 in Resources */,
+				D5528B672C09F25200995A9C /* pokemon_23.mp3 in Resources */,
+				D5528B6A2C09F25200995A9C /* pokemon_134.mp3 in Resources */,
+				D5528B5D2C09F25200995A9C /* pokemon_73.mp3 in Resources */,
+				D5528BB02C09F25200995A9C /* pokemon_142.mp3 in Resources */,
+				D5528B982C09F25200995A9C /* pokemon_101.mp3 in Resources */,
+				D5528B9E2C09F25200995A9C /* pokemon_99.mp3 in Resources */,
+				D5528B9B2C09F25200995A9C /* pokemon_67.mp3 in Resources */,
+				D5528BA12C09F25200995A9C /* pokemon_42.mp3 in Resources */,
+				D5528B6B2C09F25200995A9C /* pokemon_78.mp3 in Resources */,
+				D5528B7F2C09F25200995A9C /* pokemon_114.mp3 in Resources */,
+				D5528B322C09F25200995A9C /* pokemon_79.mp3 in Resources */,
+				D5528BA82C09F25200995A9C /* pokemon_151.mp3 in Resources */,
+				D5528B872C09F25200995A9C /* pokemon_93.mp3 in Resources */,
+				D5528BA32C09F25200995A9C /* pokemon_62.mp3 in Resources */,
+				D5528B5F2C09F25200995A9C /* pokemon_145.mp3 in Resources */,
+				D5528B412C09F25200995A9C /* pokemon_107.mp3 in Resources */,
+				D5528B452C09F25200995A9C /* pokemon_136.mp3 in Resources */,
+				D5528B372C09F25200995A9C /* pokemon_108.mp3 in Resources */,
+				D5528B402C09F25200995A9C /* pokemon_132.mp3 in Resources */,
+				D5528B3E2C09F25200995A9C /* pokemon_9.mp3 in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				D5528B4C2C09F25200995A9C /* pokemon_27.mp3 in Resources */,
+				D5528B902C09F25200995A9C /* pokemon_20.mp3 in Resources */,
+				D5528B7A2C09F25200995A9C /* pokemon_105.mp3 in Resources */,
+				D5528BC02C09F25200995A9C /* pokemon_57.mp3 in Resources */,
+				D5528B3A2C09F25200995A9C /* pokemon_122.mp3 in Resources */,
+				D5528B9A2C09F25200995A9C /* pokemon_118.mp3 in Resources */,
+				D5528B8B2C09F25200995A9C /* pokemon_147.mp3 in Resources */,
+				D5528B632C09F25200995A9C /* pokemon_47.mp3 in Resources */,
+				D5528B5A2C09F25200995A9C /* pokemon_65.mp3 in Resources */,
+				D5528BB62C09F25200995A9C /* pokemon_69.mp3 in Resources */,
+				D5528B832C09F25200995A9C /* pokemon_113.mp3 in Resources */,
+				D5528B342C09F25200995A9C /* pokemon_80.mp3 in Resources */,
+				D5528BC42C09F25200995A9C /* pokemon_115.mp3 in Resources */,
+				D5528B4F2C09F25200995A9C /* pokemon_117.mp3 in Resources */,
+				D5528BBB2C09F25200995A9C /* pokemon_106.mp3 in Resources */,
+				D5528BC12C09F25200995A9C /* pokemon_148.mp3 in Resources */,
+				D5528B512C09F25200995A9C /* pokemon_19.mp3 in Resources */,
+				D5528BAE2C09F25200995A9C /* pokemon_85.mp3 in Resources */,
+				D5528B992C09F25200995A9C /* pokemon_18.mp3 in Resources */,
+				D5528B3F2C09F25200995A9C /* pokemon_26.mp3 in Resources */,
+				D5528BA02C09F25200995A9C /* pokemon_149.mp3 in Resources */,
+				D5528BBA2C09F25200995A9C /* pokemon_4.mp3 in Resources */,
+				D5528B2E2C09F25200995A9C /* pokemon_29.mp3 in Resources */,
+				D5528B602C09F25200995A9C /* pokemon_32.mp3 in Resources */,
+				D5528B562C09F25200995A9C /* pokemon_45.mp3 in Resources */,
+				D5528BB52C09F25200995A9C /* pokemon_1.mp3 in Resources */,
+				D5528B652C09F25200995A9C /* pokemon_41.mp3 in Resources */,
+				D5528B392C09F25200995A9C /* pokemon_103.mp3 in Resources */,
+				D5528B6E2C09F25200995A9C /* pokemon_129.mp3 in Resources */,
+				D5528B302C09F25200995A9C /* pokemon_97.mp3 in Resources */,
+				D5528B612C09F25200995A9C /* pokemon_53.mp3 in Resources */,
+				D5528BBE2C09F25200995A9C /* pokemon_143.mp3 in Resources */,
+				D5528B6F2C09F25200995A9C /* pokemon_76.mp3 in Resources */,
+				D5528B592C09F25200995A9C /* pokemon_37.mp3 in Resources */,
+				D5528B952C09F25200995A9C /* pokemon_77.mp3 in Resources */,
+				D5528B662C09F25200995A9C /* pokemon_120.mp3 in Resources */,
+				D5528B782C09F25200995A9C /* pokemon_138.mp3 in Resources */,
+				D5528B3D2C09F25200995A9C /* pokemon_35.mp3 in Resources */,
+				D5528B422C09F25200995A9C /* pokemon_15.mp3 in Resources */,
+				D5528B4E2C09F25200995A9C /* pokemon_48.mp3 in Resources */,
+				D5528B882C09F25200995A9C /* pokemon_74.mp3 in Resources */,
+				D5528B8A2C09F25200995A9C /* pokemon_39.mp3 in Resources */,
+				D5528B712C09F25200995A9C /* pokemon_116.mp3 in Resources */,
+				D5528B962C09F25200995A9C /* pokemon_119.mp3 in Resources */,
+				D5528B2F2C09F25200995A9C /* pokemon_94.mp3 in Resources */,
+				D5528B702C09F25200995A9C /* pokemon_104.mp3 in Resources */,
+				D5528B772C09F25200995A9C /* pokemon_109.mp3 in Resources */,
+				D5528B332C09F25200995A9C /* pokemon_90.mp3 in Resources */,
+				D5528B5C2C09F25200995A9C /* pokemon_140.mp3 in Resources */,
+				D5528BAD2C09F25200995A9C /* pokemon_130.mp3 in Resources */,
+				D5528BAF2C09F25200995A9C /* pokemon_34.mp3 in Resources */,
+				D5528B352C09F25200995A9C /* pokemon_89.mp3 in Resources */,
+				D5528B552C09F25200995A9C /* pokemon_150.mp3 in Resources */,
+				D5528B522C09F25200995A9C /* pokemon_144.mp3 in Resources */,
+				D5528B892C09F25200995A9C /* pokemon_54.mp3 in Resources */,
+				D5528BB72C09F25200995A9C /* pokemon_84.mp3 in Resources */,
+				D5528BB82C09F25200995A9C /* pokemon_8.mp3 in Resources */,
+				D5528B2C2C09F25200995A9C /* pokemon_137.mp3 in Resources */,
+				D5528B582C09F25200995A9C /* pokemon_38.mp3 in Resources */,
+				D5528B572C09F25200995A9C /* pokemon_25.mp3 in Resources */,
+				D5528BBD2C09F25200995A9C /* pokemon_16.mp3 in Resources */,
+				D5528B3B2C09F25200995A9C /* pokemon_battle.mp3 in Resources */,
+				D5528B6D2C09F25200995A9C /* pokemon_72.mp3 in Resources */,
+				D5528B752C09F25200995A9C /* pokemon_22.mp3 in Resources */,
+				D5528B792C09F25200995A9C /* pokemon_31.mp3 in Resources */,
+				D5528BAB2C09F25200995A9C /* pokemon_44.mp3 in Resources */,
+				D5528B922C09F25200995A9C /* pokemon_70.mp3 in Resources */,
+				D5528B692C09F25200995A9C /* pokemon_131.mp3 in Resources */,
+				D5528B9C2C09F25200995A9C /* pokemon_127.mp3 in Resources */,
+				D5528BA52C09F25200995A9C /* pokemon_126.mp3 in Resources */,
+				D5528BA42C09F25200995A9C /* pokemon_111.mp3 in Resources */,
+				D5528B9F2C09F25200995A9C /* pokemon_124.mp3 in Resources */,
+				D5528B2D2C09F25200995A9C /* pokemon_110.mp3 in Resources */,
+				D5528B442C09F25200995A9C /* pokemon_11.mp3 in Resources */,
+				D5528B7C2C09F25200995A9C /* pokemon_7.mp3 in Resources */,
+				D5528B462C09F25200995A9C /* pokemon_33.mp3 in Resources */,
+				D5528BB12C09F25200995A9C /* pokemon_12.mp3 in Resources */,
+				D5528B862C09F25200995A9C /* pokemon_83.mp3 in Resources */,
+				D5528B722C09F25200995A9C /* pokemon_125.mp3 in Resources */,
+				D5528B3C2C09F25200995A9C /* pokemon_2.mp3 in Resources */,
+				D5528B822C09F25200995A9C /* pokemon_46.mp3 in Resources */,
+				D5528BAC2C09F25200995A9C /* pokemon_13.mp3 in Resources */,
+				D5528B802C09F25200995A9C /* pokemon_88.mp3 in Resources */,
+				D5528B912C09F25200995A9C /* pokemon_100.mp3 in Resources */,
+				D5528B4D2C09F25200995A9C /* pokemon_92.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -468,6 +1080,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = VAAUZXDJ66;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = ap_/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -495,6 +1108,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = VAAUZXDJ66;
 				INFOPLIST_FILE = ap_/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -546,7 +1160,7 @@
 				COPY_PHASE_STRIP = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
-				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "";
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = i386;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -574,6 +1188,7 @@
 				);
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
+				OTHER_CFLAGS = "$(inherited)";
 				OTHER_CPLUSPLUSFLAGS = (
 					"$(OTHER_CFLAGS)",
 					"-DFOLLY_NO_CONFIG",
@@ -582,7 +1197,10 @@
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 					"-DFOLLY_HAVE_CLOCK_GETTIME=1",
 				);
+				OTHER_LDFLAGS = "$(inherited)  ";
+				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
+				USE_HERMES = true;
 			};
 			name = Debug;
 		};
@@ -619,7 +1237,7 @@
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "";
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = i386;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
@@ -639,6 +1257,7 @@
 					"\"$(inherited)\"",
 				);
 				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_CFLAGS = "$(inherited)";
 				OTHER_CPLUSPLUSFLAGS = (
 					"$(OTHER_CFLAGS)",
 					"-DFOLLY_NO_CONFIG",
@@ -647,7 +1266,10 @@
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 					"-DFOLLY_HAVE_CLOCK_GETTIME=1",
 				);
+				OTHER_LDFLAGS = "$(inherited)  ";
+				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
+				USE_HERMES = true;
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;

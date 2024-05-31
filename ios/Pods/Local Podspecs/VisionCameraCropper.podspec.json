@@ -1,0 +1,32 @@
+{
+  "name": "VisionCameraCropper",
+  "version": "1.0.0",
+  "summary": "A react native vision camera frame processor for cropping",
+  "homepage": "https://github.com/tony-xlh/vision-camera-cropper#readme",
+  "license": "MIT",
+  "authors": "Lihang Xu <xulihanghai@gmail.com> (https://github.com/tony-xlh)",
+  "platforms": {
+    "ios": "13.4"
+  },
+  "source": {
+    "git": "https://github.com/tony-xlh/vision-camera-cropper.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "ios/**/*.{h,m,mm,swift}",
+  "compiler_flags": "-DFOLLY_NO_CONFIG -DFOLLY_MOBILE=1 -DFOLLY_USE_LIBCPP=1 -DFOLLY_CFG_NO_COROUTINES=1 -Wno-comma -Wno-shorten-64-to-32",
+  "dependencies": {
+    "React-Core": [
+
+    ],
+    "RCT-Folly": [
+      "2022.05.16.00"
+    ],
+    "glog": [
+
+    ]
+  },
+  "pod_target_xcconfig": {
+    "HEADER_SEARCH_PATHS": "\"$(PODS_ROOT)/boost\" \"$(PODS_ROOT)/Headers/Private/Yoga\"",
+    "CLANG_CXX_LANGUAGE_STANDARD": "c++20"
+  }
+}

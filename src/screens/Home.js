@@ -81,7 +81,7 @@ export default function Home(props) {
     }, [])
 
     SoundPlayer.onFinishedPlaying(({ success }) => {
-        if (soundPlaying == 'POKEMON') {
+        if (soundPlaying == 'POKEMON' && mode.value === "CAPTURING") {
             setSoundPlaying('BATTLE')
             SoundPlayer.playSoundFile("pokemon_battle", 'mp3')
         } else {
@@ -93,6 +93,7 @@ export default function Home(props) {
         try {
             // play the file tone.mp3
             if (detected.id !== '-1') {
+                console.log(detected)
                 setSoundPlaying('POKEMON')
                 SoundPlayer.playSoundFile("pokemon_" + detected.id, 'mp3')
                 setMode({
@@ -178,6 +179,7 @@ export default function Home(props) {
     }, [model, mode])
 
     const format = useCameraFormat(device, [
+        { videoResolution: { width: 1920, height: 1080 } },
         { minFps: 1, maxFps: 16 }
     ])
 
@@ -193,33 +195,22 @@ export default function Home(props) {
         }
     }
 
-    const throwPokeball = () => {
+    const throwPokeball = async () => {
         if (pokeballs == 0)
             navigateToCapturedScreen()
         if (detected.id !== "-1") {
-            camera.current.takeSnapshot({
-                quality: 90
-            }).then((file) => {
-                CameraRoll.saveAsset(`file://${file.path}`, {
-                    type: 'photo',
-                }).then(async (uri) => {
-                    const res = {
-                        ...detected,
-                        // picture: uri
-                    }
-                    setMode({ value: 'CAPTURED' })
-                    SoundPlayer.playSoundFile("pokemon_capture", 'mp3')
-                    await delay(4000);
-                    setMode({ value: 'SCANNING' })
-                    dispatch(throwPokeballs())
-                    dispatch(capture(res))
-                    setDetected({ "name": "", "id": "-1" })
-                })
-            })
+            setMode({ value: 'CAPTURED' })
+            SoundPlayer.playSoundFile("pokemon_capture", 'mp3')
+            await delay(4000);
+            setMode({ value: 'SCANNING' })
+            dispatch(throwPokeballs())
+            dispatch(capture(detected))
+            setDetected({ "name": "", "id": "-1" })
         }
     }
 
     const navigateToCapturedScreen = () => {
+        console.log(123)
         if (mode.value == 'SCANNING')
             setMode({ value: 'SLEEPING' })
         props.navigation.navigate('Captured')
@@ -250,9 +241,9 @@ export default function Home(props) {
                 }
                 <Image source={BKG_IMAGE} style={AppStyles.banner} />
                 <Text style={AppStyles.modeText}>{detected.name}</Text>
+                <View style={AppStyles.spriteContainer}>
                 <Button textColor={theme.colors.text} onPress={() => navigateToCapturedScreen()} style={AppStyles.captured}>Captured: {captured.length}</Button>
                 <Button textColor={theme.colors.text} style={AppStyles.pokeballs}>Pokeballs: {pokeballs}</Button>
-                <View style={AppStyles.spriteContainer}>
                     <Image
                         // source={getPokemonPicture(detected.id)}
                         source={getPokemonPicture(detected.id)}
@@ -299,14 +290,13 @@ export default function Home(props) {
                                             }
                                         ]}
                                     />
-                                    <Text style={AppStyles.pokeball_txt}>{pokeballs}</Text>
                                 </>
                             )}
                             style={AppStyles.pokeball}
                             onPress={() => throwPokeball()}
                             size={64}
                             disabled={mode.value !== 'CAPTURING'}
-                            mode="contained-tonal"
+                            mode="outlined"
                             containerColor={false}
                         /> : null
                 }

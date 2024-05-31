@@ -1,0 +1,1 @@
+../../../../../node_modules/vision-camera-cropper/ios/VisionCameraCropper-Bridging-Header.h

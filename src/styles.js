@@ -16,7 +16,7 @@ const _styles = {
             backgroundColor: theme.colors.background
         },
         spriteContainer: {
-            marginTop: Platform.OS === 'ios' ? 0 : -29,
+            marginTop: Platform.OS === 'ios' ? -29 : -29,
             // backgroundColor: theme.colors.backgroundTransparent,
             top: 0,
             left: 0,
@@ -44,11 +44,14 @@ const _styles = {
             marginRight: 10,
         },
         pokeball: {
-            bottom: 0,
-            right:0,
+            // bottom: 200,
+            // right:0,
             position: 'absolute',
-            marginRight: 10,
-            marginBottom: 10,
+            // paddingStart: screenWidth * 20 / 100,
+            top: (screenHeight / 2) + 64 + 20,
+            left: (screenWidth / 2) - 32 - (screenWidth * 10 / 100),
+            // marginRight: 10,
+            // marginBottom: 10,
         },
         pokeball_txt: {
             color: theme.colors.text
@@ -60,7 +63,8 @@ const _styles = {
             marginRight: 5,
             position: 'absolute',
             color: theme.colors.text,
-            fontSize: 15
+            fontSize: 15,
+            // backgroundColor: 'black'
         },
         pokeballs: {
             top: 30,

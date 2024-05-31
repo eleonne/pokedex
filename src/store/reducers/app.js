@@ -23,7 +23,7 @@ export const appSlice = createSlice({
       state.captured = []
     },
     resetPokeballs: (state, action) => {
-      state.pokeballs = 30
+      state.pokeballs = 100
     },
     throwPokeballs: (state, action) => {
       state.pokeballs -= 1
